@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['magazine_5680',['Magazine',['../_onegin___e_n_8txt.html#a3f32429750da5873fd510780f41d78f6',1,'Magazine(1818) edited by A. Izmaylov. 11 Russian poet and translator from the French. 12 French poet(1755-1814). Author of Poésies Erotiques. 13 Evgeny Baratynsky(1800-1844). Poet and friend of Pushkin. -------- Chapter Four La morale est dans la nature des choses. Necker(I:&#160;Onegin_EN.txt'],['../_sorted___onegin___e_n_8txt.html#a4590e2c3cb7cfb6f7146ffd1d37567c2',1,'Magazine(1818) edited by A. Izmaylov. magic of sleep had started claiming maiden in this superb:&#160;Sorted_Onegin_EN.txt']]],
+  ['main_5681',['main',['../_onegin_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'Onegin.cpp']]],
+  ['many_5682',['many',['../_onegin___e_n_8txt.html#a0ef88f54ed0a5a0b555752415eb1b52d',1,'many(critical judges, strict as any) as well-read:&#160;Onegin_EN.txt'],['../_sorted___onegin___e_n_8txt.html#a0ef88f54ed0a5a0b555752415eb1b52d',1,'many(critical judges, strict as any) as well-read:&#160;Sorted_Onegin_EN.txt']]],
+  ['my_5fqsort_5683',['my_qsort',['../_onegin_8cpp.html#a0191d7ff2efa3382a64b3251a7865cf0',1,'my_qsort(str *strings, unsigned long start, unsigned long end, int comparator(const void *, const void *)):&#160;Onegin.cpp'],['../_onegin_8h.html#a53945ad6544f5d07a48868b802939c4c',1,'my_qsort(str *strings, unsigned long begin, unsigned long end, int compare(const void *f_str, const void *s_str)):&#160;Onegin.h']]]
+];

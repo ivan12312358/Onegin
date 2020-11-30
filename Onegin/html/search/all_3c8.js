@@ -1,0 +1,17 @@
+var searchData=
+[
+  ['страдал_5324',['страдал',['../_onegin___r_u_8txt.html#a0c52799a3fd44b31ea1e09ee88f80cd1',1,'страдал():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a0c52799a3fd44b31ea1e09ee88f80cd1',1,'страдал():&#160;Sorted_Onegin_RU.txt']]],
+  ['страдало_5325',['страдало',['../_sorted___onegin___r_u_8txt.html#af26f696b75b08201269695efa06a3ee4',1,'Sorted_Onegin_RU.txt']]],
+  ['страже_5326',['страже',['../_onegin___r_u_8txt.html#a93aed1d68eeff477c2311bf00bb1bada',1,'страже():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a93aed1d68eeff477c2311bf00bb1bada',1,'страже():&#160;Sorted_Onegin_RU.txt']]],
+  ['страницы_5327',['страницы',['../_onegin___r_u_8txt.html#ab8643e91165f852828c6ef564d40c8e4',1,'страницы(Пустые бредни, небылицы, Опасные для сердца дев) Он пропускает:&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#ab8643e91165f852828c6ef564d40c8e4',1,'страницы(Пустые бредни, небылицы, Опасные для сердца дев) Он пропускает:&#160;Sorted_Onegin_RU.txt']]],
+  ['странной_5328',['странной',['../_onegin___r_u_8txt.html#a27e246b9f3a7cceb32591a25d319a9a6',1,'странной():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a27e246b9f3a7cceb32591a25d319a9a6',1,'странной():&#160;Sorted_Onegin_RU.txt']]],
+  ['странный_5329',['странный',['../_onegin___r_u_8txt.html#a5c073d73419b58fdb7f1f10dbc057d8a',1,'странный():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a5c073d73419b58fdb7f1f10dbc057d8a',1,'странный():&#160;Sorted_Onegin_RU.txt']]],
+  ['страны_5330',['страны',['../_onegin___r_u_8txt.html#ac4a63a02c71ca36c8c3d6bb12752e4ce',1,'страны():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#ac4a63a02c71ca36c8c3d6bb12752e4ce',1,'страны():&#160;Sorted_Onegin_RU.txt']]],
+  ['страстей_5331',['страстей',['../_onegin___r_u_8txt.html#a44584997393789ebf6790f6308c67588',1,'страстей():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a44584997393789ebf6790f6308c67588',1,'страстей():&#160;Sorted_Onegin_RU.txt']]],
+  ['страсти_5332',['страсти',['../_onegin___r_u_8txt.html#af181c074da207285f290b2718e78ee00',1,'страсти():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#af181c074da207285f290b2718e78ee00',1,'страсти():&#160;Sorted_Onegin_RU.txt']]],
+  ['страстной_5333',['страстной',['../_onegin___r_u_8txt.html#a9945f22bced0ba8f7849a71605b23f0d',1,'страстной():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a9945f22bced0ba8f7849a71605b23f0d',1,'страстной():&#160;Sorted_Onegin_RU.txt']]],
+  ['страх_5334',['страх',['../_onegin___r_u_8txt.html#aaed07131a962b0f7bcc53130ac87384c',1,'страх():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#aaed07131a962b0f7bcc53130ac87384c',1,'страх():&#160;Sorted_Onegin_RU.txt']]],
+  ['страха_5335',['страха',['../_onegin___r_u_8txt.html#a607eb35bfbdadc8b37762901f05690ad',1,'страха():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a607eb35bfbdadc8b37762901f05690ad',1,'страха():&#160;Sorted_Onegin_RU.txt']]],
+  ['страшней_5336',['страшней',['../_onegin___r_u_8txt.html#ab3d779ee91b4b02109aff3d127f1355b',1,'страшней():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#ab3d779ee91b4b02109aff3d127f1355b',1,'страшней():&#160;Sorted_Onegin_RU.txt']]],
+  ['страшном_5337',['страшном',['../_onegin___r_u_8txt.html#ac803330c8600430b3575ee627024d603',1,'страшном():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#ac803330c8600430b3575ee627024d603',1,'страшном():&#160;Sorted_Onegin_RU.txt']]]
+];

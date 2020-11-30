@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['Живет_8642',['Живет',['../_onegin___r_u_8txt.html#afceccd75b0dbeec91b00d7b88837ebc6',1,'Живет():&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#afceccd75b0dbeec91b00d7b88837ebc6',1,'Живет():&#160;Sorted_Onegin_RU.txt']]],
+  ['Живу_8643',['Живу',['../_sorted___onegin___r_u_8txt.html#abf677420752184d58de7ea6575f1fe68',1,'Sorted_Onegin_RU.txt']]]
+];
