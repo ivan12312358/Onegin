@@ -1,4 +1,0 @@
-var searchData=
-[
-  ['מבלאם_5738',['מבלאם',['../_onegin___r_u_8txt.html#a85c6888f77a181e90fef8ae36467bc91',1,'מבלאם(ָ עול ÿ םאקאכ למי נמלאם):&#160;Onegin_RU.txt'],['../_sorted___onegin___r_u_8txt.html#a85c6888f77a181e90fef8ae36467bc91',1,'מבלאם(ָ עול ÿ םאקאכ למי נמלאם):&#160;Sorted_Onegin_RU.txt']]]
-];
